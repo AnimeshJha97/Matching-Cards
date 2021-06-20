@@ -1,0 +1,10 @@
+html{
+    min-height: 100vh;
+}
+
+body{
+    margin : 0;
+    left : 0;
+    top : 0;
+    background: radial-gradient(#9d5900, #3d2200);
+}
